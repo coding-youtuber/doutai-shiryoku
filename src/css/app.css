@@ -255,3 +255,9 @@ footer {
   h2, h3 {
     page-break-after: avoid; }
 }
+
+#myButton, #slowButton {
+	display: block;
+	margin: 20px auto 0;
+	font-size: 120%;
+}
