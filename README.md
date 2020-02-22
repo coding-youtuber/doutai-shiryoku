@@ -1,4 +1,14 @@
-# <p align="center"><a href='https://github.com/Dugnist/html5-boilerplate'><img width="200" src="http://css-live.ru/wp-content/uploads/2017/06/web1.png" alt="html5-boilerplate" /></a><br/> html5-boilerplate </p>
+![capture](https://user-images.githubusercontent.com/58985013/75089834-21e4ea00-55a0-11ea-93da-f0043b50ea95.jpg)
+
+# YouTube
+
+https://www.youtube.com/watch?v=aD62jExujww
+
+### Get started
+
+ボイラープレートを使っています。フロントエンドの環境を簡単に設定するためのテンプレートファイルみたいなものです。下記のリポジトリのものを使っています。
+
+ビルドの仕方の参考にしてください。
 
 ### Get started
 
